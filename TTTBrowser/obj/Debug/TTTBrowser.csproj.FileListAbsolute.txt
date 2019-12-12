@@ -1,0 +1,6 @@
+c:\users\mn\documents\visual studio 2015\Projects\TTTBrowser\TTTBrowser\bin\Debug\TTTBrowser.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTBrowser\TTTBrowser\bin\Debug\TTTBrowser.pdb
+c:\users\mn\documents\visual studio 2015\Projects\TTTBrowser\TTTBrowser\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTBrowser\TTTBrowser\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
+c:\users\mn\documents\visual studio 2015\Projects\TTTBrowser\TTTBrowser\obj\Debug\TTTBrowser.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTBrowser\TTTBrowser\obj\Debug\TTTBrowser.pdb
